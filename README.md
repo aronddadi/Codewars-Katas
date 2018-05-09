@@ -1,5 +1,5 @@
 
-#All The codewars katas I completed
+# All The codewars katas I completed
 
 My codewards page : [swagron](https://www.codewars.com/users/swagron)
 
