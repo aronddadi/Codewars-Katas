@@ -3,6 +3,9 @@
 
 ## My codewards page : [swagron](https://www.codewars.com/users/swagron)
 
+Kyus is the level  8 is the easiest, 1 is the hardest
+
+4Kyu [Sum String](https://www.codewars.com/kata/sum-strings-as-numbers/javascript)
 
 [Palindrome chain length](https://www.codewars.com/kata/525f039017c7cd0e1a000a26)
 
