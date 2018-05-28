@@ -7,6 +7,10 @@ Kyus is the level  8 is the easiest, 1 is the hardest
 
 4Kyu [Sum String](https://www.codewars.com/kata/sum-strings-as-numbers/javascript)
 
+5ky [Move Zeros](https://www.codewars.com/kata/52597aa56021e91c93000cb0/solutions/javascript)
+
+6Kyu [WeIrD StRiNg](https://www.codewars.com/kata/52b757663a95b11b3d00062d/train/javascript)
+
 [Palindrome chain length](https://www.codewars.com/kata/525f039017c7cd0e1a000a26)
 
 [Duplicate encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
