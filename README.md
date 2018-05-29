@@ -5,6 +5,8 @@
 
 Kyus is the level  8 is the easiest, 1 is the hardest
 
+4Kyu [Vigenere cipher](https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3)
+
 4Kyu [Sum String](https://www.codewars.com/kata/sum-strings-as-numbers/javascript)
 
 5ky [Move Zeros](https://www.codewars.com/kata/52597aa56021e91c93000cb0/solutions/javascript)
